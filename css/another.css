@@ -1,0 +1,60 @@
+.dados-usuario {
+  width: 80%;
+  margin-top: 3rem;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.submit {
+  opacity: 0.2;
+  margin: 5px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.submit:hover {
+  opacity: 1;
+}
+
+.text-center {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  color: #aaa;
+}
+
+hr {
+  width: 100%;
+}
+
+.face {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.face-logo {
+  width: 7%;
+}
+
+.face-login {
+  display: flex;
+  justify-content: center;
+}
+
+.link-faceblue {
+  color: #3b5998;
+  margin: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
